@@ -1,0 +1,6 @@
+{
+  "name": "SaldoDoTody",
+  "description": "Smart financial organizer that automatically distributes your balance using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
